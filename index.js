@@ -1,3 +1,3 @@
-function getInvoice(){
-    return 100;
+function getInvoice(name){
+    console.log("Javier");
 }
